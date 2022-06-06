@@ -12,13 +12,13 @@ export default function AtividadeLista(props) {
         <Atividade
           key={ativ.id}
           ativ={ativ}
-          deletarAtividade={props.deletarAtividade}
           pegarAtividade={props.pegarAtividade}
+          toogleConfirmModal={props.toogleConfirmModal}
         />
 
       ))}
 
     </div>
-    
+
   )
 }

@@ -1,0 +1,33 @@
+{
+    "files.exclude": {
+
+        // "public-":true,
+
+        "**/obj":true,
+        "**/node_modules":true,
+
+        ".vscode": true,
+
+        ".gitignore": true,
+
+        "*.json": true,
+        "*.md": true,
+
+        "src/_bkp": true,
+        "src/*Test*": true,
+        "src/*test*": true,
+        "src/react-app-env*": true
+    },
+
+    "compile-hero.disable-compile-files-on-did-save-code": true
+    
+}
+
+
+
+
+// https://qastack.com.br/programming/30140112/how-do-i-hide-certain-files-from-the-sidebar-in-visual-studio-code
+
+// https://rodrigoreisf.com.br/esconder-pastas-na-sidebar-do-vscode/#:~:text=Abra%20o%20Visual%20Studio%20Code,%7D%2C%20caso%20ainda%20n%C3%A3o%20exista
+
+// ...

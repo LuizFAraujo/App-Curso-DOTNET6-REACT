@@ -1,0 +1,12 @@
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.deps.json
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.dll
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\bin\Debug\net5.0\ProAtividade.Domain.pdb
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.csproj.AssemblyReference.cache
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.AssemblyInfoInputs.cache
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.AssemblyInfo.cs
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.csproj.CoreCompileInputs.cache
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.dll
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ref\ProAtividade.Domain.dll
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\ProAtividade.Domain.pdb
+D:\_WEB\UDEMY\APP\back\ProAtividade.Domain\obj\Debug\net5.0\refint\ProAtividade.Domain.dll

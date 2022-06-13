@@ -57,5 +57,5 @@ D:\_WEB\UDEMY\APP\back\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Data.dll
 D:\_WEB\UDEMY\APP\back\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Domain.dll
 D:\_WEB\UDEMY\APP\back\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Data.pdb
 D:\_WEB\UDEMY\APP\back\ProAtividade.API\bin\Debug\net5.0\ProAtividade.Domain.pdb
-D:\_WEB\UDEMY\APP\back\ProAtividade.API\obj\Debug\net5.0\refint\ProAtividade.API.dll
-D:\_WEB\UDEMY\APP\back\ProAtividade.API\bin\Debug\net5.0\ProAtividade.API.StaticWebAssets.xml
+D:\_WEB\UDEMY\APP\back\ProAtividade.API\bin\Debug\net5.0\ref\ProAtividade.API.dll
+D:\_WEB\UDEMY\APP\back\ProAtividade.API\obj\Debug\net5.0\staticwebassets\ProAtividade.API.StaticWebAssets.xml

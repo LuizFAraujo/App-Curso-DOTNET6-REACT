@@ -15,4 +15,4 @@ D:\_WEB\UDEMY\APP\back\ProAtividade.Data\obj\Debug\net5.0\ProAtividade.Data.dll
 D:\_WEB\UDEMY\APP\back\ProAtividade.Data\obj\Debug\net5.0\ref\ProAtividade.Data.dll
 D:\_WEB\UDEMY\APP\back\ProAtividade.Data\obj\Debug\net5.0\ProAtividade.Data.pdb
 D:\_WEB\UDEMY\APP\back\ProAtividade.Data\obj\Debug\net5.0\ProAtividade.Data.genruntimeconfig.cache
-D:\_WEB\UDEMY\APP\back\ProAtividade.Data\obj\Debug\net5.0\refint\ProAtividade.Data.dll
+D:\_WEB\UDEMY\APP\back\ProAtividade.Data\bin\Debug\net5.0\ref\ProAtividade.Data.dll

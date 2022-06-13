@@ -1,5 +1,5 @@
 import React from 'react'
-import Atividade from './Atividade';
+import AtividadeItem from './AtividadeItem';
 
 
 export default function AtividadeLista(props) {
@@ -9,7 +9,7 @@ export default function AtividadeLista(props) {
 
       {props.atividades.map(ativ => (
 
-        <Atividade
+        <AtividadeItem
           key={ativ.id}
           ativ={ativ}
           pegarAtividade={props.pegarAtividade}

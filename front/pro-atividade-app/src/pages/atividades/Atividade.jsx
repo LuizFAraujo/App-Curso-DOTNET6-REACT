@@ -1,13 +1,15 @@
 import React, { useState, useEffect } from 'react';
-import './App.css';
 import { Button, Modal } from 'react-bootstrap';
 
-import AtividadeForm from './components/AtividadeForm';
-import AtividadeLista from './components/AtividadeLista';
-import api from './api/atividade';
+import AtividadeLista from './AtividadeLista';
+import AtividadeForm from './AtividadeForm';
+
+import api from '../../api/atividade';
+import TitlePage from '../../components/TitlePage';
 
 
-function App() {
+
+export default function Atividade() {
 
   const [atividades, setAtividades] = useState([]);
   const [atividade, setAtividade] = useState({ id: 0 });
@@ -97,13 +99,13 @@ function App() {
 
   return (
     <>
-      <div className="d-flex justify-content-between align-items-end mt-2 pb-3 border-bottom border-1">
-        <h1 className='m-0 p-0'>Atividade {atividade.id !== 0 ? atividade.id : ''}</h1>
+
+      <TitlePage title={'Atividade ' + (atividade.id !== 0 ? atividade.id : '')} >
 
         <Button variant="outline-secondary" onClick={novaAtividade}>
           <i className="fas fa-plus"></i>
         </Button>
-      </div>
+      </TitlePage>
 
       <AtividadeLista
         atividades={atividades}
@@ -131,6 +133,7 @@ function App() {
         </Modal.Body>
 
       </Modal>
+
 
 
       <Modal sise='sm' show={smShowConfirmModal}
@@ -164,12 +167,7 @@ function App() {
 
       </Modal>
 
-
-
     </>
   );
 
 }
-
-export default App;
-
